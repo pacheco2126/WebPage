@@ -1,2 +1,2 @@
 # WebPage
-Web page I Made in 1 week for an assignament
+Web page I made in 1 week for an assignament
